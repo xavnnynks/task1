@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\24IS11-2\Варвара Смирнова\task1\bin\Debug\task1.exe.config
+C:\Users\user\Desktop\24IS11-2\Варвара Смирнова\task1\bin\Debug\task1.exe
+C:\Users\user\Desktop\24IS11-2\Варвара Смирнова\task1\bin\Debug\task1.pdb
+C:\Users\user\Desktop\24IS11-2\Варвара Смирнова\task1\obj\Debug\task1.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\24IS11-2\Варвара Смирнова\task1\obj\Debug\task1.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\24IS11-2\Варвара Смирнова\task1\obj\Debug\task1.exe
+C:\Users\user\Desktop\24IS11-2\Варвара Смирнова\task1\obj\Debug\task1.pdb
+E:\Downloads\task1\bin\Debug\task1.exe.config
+E:\Downloads\task1\bin\Debug\task1.exe
+E:\Downloads\task1\bin\Debug\task1.pdb
+E:\Downloads\task1\obj\Debug\task1.csproj.AssemblyReference.cache
+E:\Downloads\task1\obj\Debug\task1.csproj.CoreCompileInputs.cache
+E:\Downloads\task1\obj\Debug\task1.exe
+E:\Downloads\task1\obj\Debug\task1.pdb
